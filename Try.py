@@ -10,5 +10,3 @@ class Dog:
 my_dog = Dog("Buddy", 3)
 print(my_dog.name)
 my_dog.bark()
-
-
